@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Dimitar Tsonev
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning javaScript
